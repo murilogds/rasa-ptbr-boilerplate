@@ -285,3 +285,14 @@
 * risada
     - utter_risada
     - utter_continuar_conversa
+
+## path_metafisica 1
+* cumprimentar
+    - utter_cumprimentar
+* metafisica
+    - utter_metafisica
+    - utter_continuar_conversa
+
+## path_metafisica 2
+* metafisica
+    - utter_metafisica

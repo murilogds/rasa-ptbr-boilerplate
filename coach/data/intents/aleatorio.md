@@ -456,3 +456,9 @@
 - ri
 - rachei
 - morri
+
+## intent:metafisica
+- fale sobre metafisica
+- tu curte metafisica
+- metafisica e show ne
+- kkk metafisica
