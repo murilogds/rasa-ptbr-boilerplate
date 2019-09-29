@@ -1,0 +1,35 @@
+﻿OBS: Essas perguntas ainda não estão “adaptadas” para a personalidade do Bot.
+Estágio Supervisionado
+Fonte 1: FAQ do estágio (https://aprender.ead.unb.br/pluginfile.php/688847/mod_resource/content/5/faq_estagio_supervisionado.pdf)
+1. Quais são as atividades aceitas como Estágio Obrigatório?
+Para fins de contabilização de créditos de Estágio Supervisionado, poderão ser utilizados: 
+1) estágios obrigatórios (sem remuneração) nas instituições cadastradas na UnB.
+2) estágios não obrigatórios em qualquer instituição desde que oficializados na UnB (TCE + Plano de Atividades assinado pelo Coordenador de Estágios e DAIA).
+3) atividades como MEI (Microempreendedor Individual) área de atuação do curso, comprovadas através de contrato de prestação de serviço.
+4) projeto de pesquisa com pagamento de bolsa e área de atuação do curso (via CDT ou Finatec, por exemplo).
+5) trabalho com carteira assinada na área de atuação do curso.
+6) contrato de serviço temporário (como pessoa física - RPA - ou como empresário) na área de atuação do curso.
+ATENÇÃO: Para estes casos, consulte o Coordenador de Estágios de seu curso para verificar se essas modalidades estão disponíveis.
+2. Quais são os pré-requisitos para se matricular em Estágio Supervisionado ? / A partir de que momento posso me insecrever em um Estágio supervisionado ? 
+1) ter 70% dos créditos concluídos
+2) realizar 210 h de atividades técnicas sob a supervisão/demanda de um profissional da área de atuação do seu curso.
+3. Quando acontece a matrícula em Estágio Supervisionado?
+A matrícula em Estágio Supervisionado acontece de forma similar à matrícula de TCC1 e TCC2: o seu período de solicitação acontece durante o primeiro mês de aulas de um semestre que se inicia.
+4. Como se matricular em Estágio Supervisionado?
+O aluno deve possuir TCE (Termo de Compromisso de Estágio) + PA (Plano de Atividades) ou Contrato de Trabalho (CLT) ou Contrato de Prestação de Serviço. Deve atender os pré-requisitos de matrícula em estágio. E também deve ter um orientador previamente definido e disponível. Após isso, deve seguir os seguintes passos:
+Como o aluno consegue adquirir esses requisitos ?
+1) Preencher a Ficha de Solicitação de Matrícula pelo sistema. A ficha de Solicitação de Matrícula será enviada pelo sistema para o e-mail do aluno. Em seguida, a situação será avaliada pelo Coordenador de Estágios para definir se a matrícula do aluno será aprovada ou não. Caso não seja aprovado, o aluno será notificado.
+5. Como a ficha é enviada? O aluno deve solicitá-la?
+2) Imprimir a Ficha, assiná-la e levar até o Orientador de Estágio escolhido para que ele também a assine.
+3) Compactar os seguintes documentos: Ficha de Solicitação de Matrícula assinada, Histórico Escolar, Grade Curricular e Contrato) em formato .zip e submeter no Moodle.
+5. Como escolher um Orientador de Estágio para a disciplina de Estágio Supervisionado?
+O Orientador de Estágio para a disciplina de Estágio Supervisionado poderá qualquer professor da FGA (ou mesmo da UnB) que esteja disponível para fazer a avaliação do relatório de estágio.
+O professor que assinará a Ficha de Solicitação de Matrícula como Orientador da disciplina Estágio Supervisionado não precisa ser o mesmo professor que assinou o TCE/PA (Termo de Compromisso de Estágio e Plano de Atividades) de um estágio prévio que o estudante apresentará como comprovação de atividades.
+A menção da disciplina é dada pelo Orientador de Estágio e é resultante da composição da avaliação do Supervisor de Estágios e da avaliação do relatório de atividades apresentadas pelo aluno.
+Uma lista de sugestões de candidatos para Orientador de Estágio é a seguinte:
+1) professor(a) orientador(a) de TCC;
+2) professor(a) orientador(a) de projeto de pesquisa;
+3) professor(a) orientador(a) de Pibic;
+4) Coordenador(a) de Estágio do curso;
+5) Coordenador de Graduação do curso.
+Recomenda-se que o aluno observe a ordem dos candidatos acima

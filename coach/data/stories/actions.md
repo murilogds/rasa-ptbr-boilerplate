@@ -1,9 +1,9 @@
-## cumprimentar action_test
+## cumprimentar action_atividades_estagio
 * cumprimentar
     - utter_cumprimentar
-* action_test
-    - action_test
+* action_atividades_estagio
+    - action_atividades_estagio
 
-## action_test
-* action_test
-    - action_test
+## action_atividades_estagio
+* action_atividades_estagio
+    - action_atividades_estagio

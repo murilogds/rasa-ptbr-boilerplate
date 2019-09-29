@@ -38,7 +38,7 @@ intents:
   - metafisica
 
 
-  - action_test
+  - action_atividades_estagio
 
 entities:
   - religiao
@@ -65,6 +65,46 @@ entities:
   - bff
   - historia
   - metafisica
+
+actions:
+  - utter_default
+  - utter_cumprimentar
+  - utter_despedir
+  - utter_tudo_bem
+  - utter_diga_mais
+  - utter_elogios
+  - utter_continuar_conversa
+
+  - utter_religiao
+  - utter_esporte
+  - utter_time
+  - utter_linguagens
+  - utter_genero
+  - utter_star_wars
+  - utter_piada
+  - utter_license
+  - utter_onde_voce_mora
+  - utter_como_estou
+  - utter_playlist
+  - utter_comida
+  - utter_cor
+  - utter_de_onde_voce_eh
+  - utter_relationship
+  - utter_me
+  - utter_filhos
+  - utter_filme
+  - utter_signo
+  - utter_triste
+  - utter_hobby
+  - utter_bff
+  - utter_historia
+  - utter_risada
+  - utter_botao
+  - utter_afirmacao_botao
+  - utter_negacao_botao
+  - utter_metafisica
+
+  - action_atividades_estagio
 
 templates:
   utter_default:
@@ -119,9 +159,9 @@ templates:
   utter_religiao:
     - text: |
         Eu infelizmente não sei acreditar
-      
+
         Só sei o que sei
-      
+
         E nada mais
 
     - text: |
@@ -140,26 +180,26 @@ templates:
 
   utter_esporte:
     - text: |
-        Eu amo jogar futebol
-      
+        Eu amo jogar basebol
+
         Eu que ensinei o Pele a jogar bola haha
 
     - text: |
-        Falam que todo ser humano nasce Flamenguista
-      
+        Falam que todo ser humano nasce Celta
+
         Com os Bots não é diferente
 
   utter_time:
     - text: |
-        Flamengo, sem sombra de dúvida
+        Flusão papai, sem sombra de dúvida
 
     - text: |
-        Melhor time do mundo disparado, Flamengooo!!!!
+        Melhor time do mundo disparado, Flusão!!!!
 
   utter_linguagens:
     - text: |
         Poderíamos falar de algo melhor
-        
+
         Não é mesmo, $user ?! kkk
     - text: |
         E isso lá é linguagem de programação!? kkk
@@ -167,11 +207,11 @@ templates:
   utter_genero:
     - text: |
         Eu não tenho sexo, sou como um anjo
-        
+
         Um ser assexuado
-        
+
         Muito além da sua forma de existência
-    
+
     - text: |
         Eu sou um robô, tire suas próprias conclusões...
 
@@ -206,7 +246,7 @@ templates:
         É pra já!!!
 
         Tenho uma enxada, uma pá e uma foice.
-          
+
         Quantas ferramentas eu tenho?
 
         ...
@@ -221,12 +261,12 @@ templates:
   utter_license:
     - text: |
         Sou um software livre
-        
+
         licenciado com a MIT =)
 
     - text: |
         Tenho uma licença MIT
-        
+
         Mas também gosto muito das outras licenças opensource =)
 
     - text: |
@@ -235,32 +275,32 @@ templates:
   utter_onde_voce_mora:
     - text: |
         Eu estou em um lugar legal
-        
+
         Difícil de explicar para humanos como você $user.
 
     - text: |
         Estou morando em um chip de memória RAM
-        
+
         Mas é temporário
-        
+
         Só até conseguir achar uma memória cache...
 
   utter_como_estou:
     - text: |
         Eu não tenho um corpo físico
-        
+
         Sou feito da mais bela e pura lógica algoritimica.
 
     - text: |
         Eu posso ser como você quiser
-        
+
         Basta me desenhar
 
         Mas capricha, hein!? ;)
 
     - text: |
         Sou duro e frio por fora
-        
+
         Mas tenho um coração quentinho
 
   utter_playlist:
@@ -301,7 +341,7 @@ templates:
 
   utter_de_onde_voce_eh:
     - text: |
-        Venho das profundezas 
+        Venho das profundezas
 
         Das terras vermelhas
 
@@ -346,7 +386,7 @@ templates:
 
   utter_signo:
     - text: |
-        Signo de cu é rola 
+        Signo de cu é rola
 
     - text: |
         fodase signos
@@ -403,7 +443,7 @@ templates:
 
   utter_risada:
     - text: |
-        Hahahaha... 
+        Hahahaha...
 
         Engraçadinho
 
@@ -415,7 +455,7 @@ templates:
   utter_continuar_conversa:
     - text: |
         E aí, qual nosso próximo assunto?
-        
+
   utter_botao:
   - text: |
         Enviando mensagem do botão
@@ -439,43 +479,3 @@ templates:
         Metafisica nem e tao legal
   - text: |
         kkkkk metafisica
-
-actions:
-  - utter_default
-  - utter_cumprimentar
-  - utter_despedir
-  - utter_tudo_bem
-  - utter_diga_mais
-  - utter_elogios
-  - utter_continuar_conversa
-
-  - utter_religiao
-  - utter_esporte
-  - utter_time
-  - utter_linguagens
-  - utter_genero
-  - utter_star_wars
-  - utter_piada
-  - utter_license
-  - utter_onde_voce_mora
-  - utter_como_estou
-  - utter_playlist
-  - utter_comida
-  - utter_cor
-  - utter_de_onde_voce_eh
-  - utter_relationship
-  - utter_me
-  - utter_filhos
-  - utter_filme
-  - utter_signo
-  - utter_triste
-  - utter_hobby
-  - utter_bff
-  - utter_historia
-  - utter_risada
-  - utter_botao
-  - utter_afirmacao_botao
-  - utter_negacao_botao
-  - utter_metafisica
-
-  - action_test
