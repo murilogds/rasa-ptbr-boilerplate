@@ -1,18 +1,11 @@
-from rasa_core_sdk import Action
+from rasa_sdk import Action
+from rasa_sdk.executor import CollectingDispatcher
+import json
 
-class ActionAtividadesEstagio(Action):
+class ActionFaqEstagio(Action):
 	def name(self):
-		return "action_atividades_estagio"
+		return 'action_faq_estagio'
 	def run(self, dispatcher, tracker, domain):
-		try:
-			topico = '0'
-			with open('actions/Perguntas_do_BOT.txt','r') as file:
-				for line in file:
-					if line[1] == '.':
-						topico = line[0]
-						continue
-					if topico == '1':
-						dispatcher.utter_message("{}".format(line))
-		except ValueError:
-			dispatcher.utter_message(ValueError)
-        
+		dispatcher.utter_message('Calma aí, rapidinho!')
+		dispatcher.utter_message('Vou buscar isso daí para você')
+		dispatcher.utter_template("utter_faq_estagio",tracker)

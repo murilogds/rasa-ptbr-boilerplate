@@ -22,7 +22,7 @@ evaluate:
 	python3 -m rasa_core.evaluate -d /models/dialogue -s data/core/
 
 run-actions:
-	python -m rasa_core_sdk.endpoint --actions actions
+	python -m rasa_sdk.endpoint --actions actions
 
 # Force Makefile to execute e2e command every time
 .PHONY: all e2e clean
