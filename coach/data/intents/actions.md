@@ -1,7 +1,7 @@
-## intent:action_atividades_estagio
-- quais sao as atividades que podem ser consideradas como estagio supervisionado
-- atividades que eu posso fazer que podem substituir o estafio
-- atividades aceitas como estagio obrigatorio
-- atividades aceitas como estagio supervisionado
-- quais sao as atividades aceitas como estagio obrigatorio
-- quais sao as atividades aceitas como estagio supervisionado
+## intent:action_faq_estagio
+- queria saber sobre estagio
+- queria saber sobre estagio supervisionado
+- quero saber sobre estagio
+- quero saber sobre estagio supervisionado
+- estagio
+- estagio obrigatório
