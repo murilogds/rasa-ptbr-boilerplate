@@ -1,11 +1,11 @@
 from rasa_sdk import Action
 from rasa_sdk.executor import CollectingDispatcher
 import json
+import telegram
 
 class ActionFaqEstagio(Action):
 	def name(self):
 		return 'action_faq_estagio'
 	def run(self, dispatcher, tracker, domain):
-		dispatcher.utter_message('Calma aí, rapidinho!')
-		dispatcher.utter_message('Vou buscar isso daí para você')
-		dispatcher.utter_template("utter_faq_estagio",tracker)
+		bot = telegram.Bot(token='ACCESS_TOKEN')
+		bot.send_document(chat_id=tracker.sender_id,document='https://aprender.ead.unb.br/pluginfile.php/688847/mod_resource/content/5/faq_estagio_supervisionado.pdf')
